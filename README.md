@@ -1,9 +1,19 @@
-# React + Vite
+<h1>Product-Tracking-App</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I developed an application where you can follow the products by adding their names, prices and images. I added the features of adding, deleting and updating products within the application. You can sort the products in ascending or descending order by price. In the product search section, you can search for the product you want.
+Libraries I use during application development:
 
-Currently, two official plugins are available:
+- ReactVite,
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Product-Tracking-App
+- Redux, Redux-Toolkit,
+
+- React-Router-Dom,
+
+-TailwindCss,
+
+- React-Icons
+
+
+<h2>Screenshot</h2>
+
+![](1.gif)
