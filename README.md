@@ -9,7 +9,7 @@ Libraries I use during application development:
 
 - React-Router-Dom,
 
--TailwindCss,
+- TailwindCss,
 
 - React-Icons
 
